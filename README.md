@@ -17,7 +17,7 @@ This project delves into a detailed analysis of bank loan data, utilizing SQL fo
 
 ## Data Source
 
-The project is based on a comprehensive [dataset](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+The project is based on a comprehensive [dataset](https://github.com/EcoSkull/BANK-LOAN-ANALYSIS/blob/main/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ---
 
@@ -74,13 +74,13 @@ This project offers valuable insights into the bank's loan portfolio, highlighti
 ## Key Visualizations
 
 ### Summary Dashboard
-![summary](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/05d19ea3-9f54-4dbb-b4f3-b3e22c57d47c)
+![summary](https://github.com/EcoSkull/BANK-LOAN-ANALYSIS/blob/main/summary.jpg)
 
 ### Overview Dashboard
-![overview](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/51acbbeb-90ea-4d62-bceb-82178e741e98)
+![overview](https://github.com/EcoSkull/BANK-LOAN-ANALYSIS/blob/main/overview.jpg)
 
 ### Detailed Insights Dashboard
-![details](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/45f862e3-1205-4899-955e-79c3b7176673)
+![details](https://github.com/EcoSkull/BANK-LOAN-ANALYSIS/blob/main/details.jpg)
 
 ---
 
@@ -119,28 +119,8 @@ This project offers valuable insights into the bank's loan portfolio, highlighti
 - **SQL Management Server**: To manage and query the database.
 - **Excel**: For data processing and analysis.
 - **Power BI Desktop**: For creating and viewing dashboards.
-- **Tableau Desktop**: For advanced data visualization and interactive dashboards.
 
-### Installation and Setup
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/bank-loan-analysis.git
-    ```
-2. **Database Setup**:
-    - Use the provided SQL script (`loan_queries.sql`) to set up the database in SQL Management Server.
-    - Import the loan dataset into the created database.
-
-3. **Excel Setup**:
-    - Open the provided Excel file (`loan_data_analysis.xlsx`) to review preliminary analyses and data processing steps.
-
-4. **Power BI Setup**:
-    - Open the provided Power BI file (`bank_loan_data_insights.pbix`).
-    - Connect the Power BI file to your SQL Server database.
-
-5. **Tableau Setup**:
-    - Open the provided Tableau workbook (`bank_loan_data_viz.twb`).
-    - Connect the Tableau workbook to your SQL Server database.
 
 ### Running the Analysis
 
@@ -151,39 +131,3 @@ This project offers valuable insights into the bank's loan portfolio, highlighti
 - **Power BI Dashboards**:
   - Open Power BI and refresh the data connections.
   - Navigate through the dashboards to explore the various insights and visualizations.
-- **Tableau Dashboards**:
-  - Open Tableau and refresh the data connections.
-  - Navigate through the dashboards for interactive visualizations.
-
----
-
-## Contribution
-
-If you'd like to contribute to this project, please follow the standard fork, branch, pull request workflow.
-
-1. **Fork the Repository**.
-2. **Create a New Branch**:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. **Make Your Changes**.
-4. **Commit Your Changes**:
-    ```bash
-    git commit -m "Add new feature"
-5. **Push to the Branch**:
-    ```bash
-    git push origin feature-branch
-    ```
-6. **Open a Pull Request**.
-
----
-
-## License
-
-This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
-
----
-
-## Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
